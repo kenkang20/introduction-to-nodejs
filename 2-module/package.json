@@ -1,0 +1,21 @@
+{
+    "name": "Ken's Node Js",
+    "version": "1.0.0",
+    "author": "Ken Kang",
+    "description": "Ken's first nodejs",
+    "keywords": [
+        "Ken", "nodejs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kenkang20/introduction-to-nodejs.git"
+    },
+    "dependancies": {
+        "underscore": "1.4.x",
+        "request": ">=2.1.0"
+    },
+    "main": "lib/cool.js"
+}
+
+//npm publish .
+//
